@@ -128,6 +128,8 @@ public class SnarfAdventures {
 			System.out.println("O faminto Snarf não pode esperar a sua coragem surgir. Voce está fora da jogada... GAME OVER");
 		}
 		leitor.close();
+		
+		
 
 	}
 
